@@ -1,3 +1,4 @@
+# This project forked from [msgbot](https://github.com/ttyy3388/msgbots.git)
 # Messenger Bot Simulator : "Msgbots"
 
 메신저 봇 시뮬레이터는 아직 베타버전이므로 동작 시 발생하는 버그가 많을 수 있습니다.
